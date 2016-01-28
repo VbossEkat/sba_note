@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottom-sheet-lib/bottom-sheet-lib.iml" filepath="$PROJECT_DIR$/bottom-sheet-lib/bottom-sheet-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro-slider-lib/intro-slider-lib.iml" filepath="$PROJECT_DIR$/intro-slider-lib/intro-slider-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odoo-rpc-v2/odoo-rpc-v2.iml" filepath="$PROJECT_DIR$/odoo-rpc-v2/odoo-rpc-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallax-effect-lib/parallax-effect-lib.iml" filepath="$PROJECT_DIR$/parallax-effect-lib/parallax-effect-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sba_note.iml" filepath="$PROJECT_DIR$/sba_note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snackbar-lib/snackbar-lib.iml" filepath="$PROJECT_DIR$/snackbar-lib/snackbar-lib.iml" />
+    </modules>
+  </component>
+</project>
