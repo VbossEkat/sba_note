@@ -2,7 +2,7 @@
   <library name="parallax-effect-lib-unspecified">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/sba_note/parallax-effect-lib/unspecified/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/sba_note/parallax-effect-lib/unspecified/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/sba_note/parallax-effect-lib/unspecified/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

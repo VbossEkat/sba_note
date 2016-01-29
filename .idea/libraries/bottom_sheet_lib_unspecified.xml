@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="bottom-sheet-lib-unspecified">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/sba_note/bottom-sheet-lib/unspecified/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/sba_note/bottom-sheet-lib/unspecified/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/sba_note/bottom-sheet-lib/unspecified/res" />
     </CLASSES>
     <JAVADOC />
